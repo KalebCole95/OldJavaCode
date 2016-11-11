@@ -1,0 +1,44 @@
+Daytona 500
+1	12	Ryan Newman 	190 5 
+2	2	Kurt Busch 	175 5 
+3	20	Tony Stewart 	170 5 
+4	18	Kyle Busch 	170 10 
+5	41	Reed Sorenson 	160 5 
+6	19	Elliott Sadler 	150 0 
+7	9	Kasey Kahne 	151 5 
+8	7	Robby Gordon 	142 0 
+9	88	Dale Earnhardt Jr. 	143 5 
+10	16	Greg Biffle 	139 5 
+11	43	Bobby Labonte 	130 0 
+12	83	Brian Vickers 	127 0 
+13	31	Jeff Burton 	129 5 
+14	29	Kevin Harvick 	121 0 
+15	77	Sam Hornish Jr. 	118 0 
+16	44	Dale Jarrett 	115 0 
+17	11	Denny Hamlin 	117 5 
+18	00	David Reutimann 	109 0 
+19	99	Carl Edwards 	106 0 
+20	1	Martin Truex Jr. 	103 0 
+21	66	Scott Riggs 	100 0 
+22	15	Paul Menard 	97 0 
+23	70	Jeremy Mayfield 	94 0 
+24	07	Clint Bowyer 	96 5 
+25	96	J.J. Yeley 	88 0 
+26	26	Jamie McMurray 	85 0 
+27	48	Jimmie Johnson 	87 5 
+28	38	David Gilliland 	79 0 
+29	55	Michael Waltrip 	81 5 
+30	28	Travis Kvapil 	73 0 
+31	8	Mark Martin 	70 0 
+32	42	Juan Montoya 	67 0 
+33	40	Dario Franchitti 	64 0 
+34	45	Kyle Petty 	61 0 
+35	5	Casey Mears 	58 0 
+36	17	Matt Kenseth 	60 5 
+37	01	Regan Smith 	52 0 
+38	22	Dave Blaney 	54 5 
+39	24	Jeff Gordon 	51 5 
+40	34	John Andretti 	43 0 
+41	78	Joe Nemechek 	40 0 
+42	6	David Ragan 	37 0 
+43	187	Kenny Wallace 	34 0 

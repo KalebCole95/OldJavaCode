@@ -1,0 +1,44 @@
+UAW-Dodge 400
+1	99	Carl Edwards 	195 10 
+2	88	Dale Earnhardt Jr. 	175 5 
+3	16	Greg Biffle 	165 0 
+4	29	Kevin Harvick 	160 0 
+5	31	Jeff Burton 	160 5 
+6	9	Kasey Kahne 	150 0 
+7	6	David Ragan 	146 0 
+8	28	Travis Kvapil 	142 0 
+9	11	Denny Hamlin 	138 0 
+10	8	Mark Martin 	139 5 
+11	18	Kyle Busch 	135 5 
+12	19	Elliott Sadler 	127 0 
+13	5	Casey Mears 	124 0 
+14	12	Ryan Newman 	121 0 
+15	1	Martin Truex Jr. 	118 0 
+16	70	Jeremy Mayfield 	115 0 
+17	43	Bobby Labonte 	112 0 
+18	41	Reed Sorenson 	109 0 
+19	42	Juan Montoya 	106 0 
+20	17	Matt Kenseth 	108 5 
+21	49	Ken Schrader 	100 0 
+22	15	Paul Menard 	97 0 
+23	38	David Gilliland 	94 0 
+24	83	Brian Vickers 	91 0 
+25	26	Jamie McMurray 	88 0 
+26	22	Dave Blaney 	85 0 
+27	96	J.J. Yeley 	82 0 
+28	07	Clint Bowyer 	79 0 
+29	48	Jimmie Johnson 	76 0 
+30	27	Mike Skinner 	73 0 
+31	55	Michael Waltrip 	70 0 
+32	45	Kyle Petty 	67 0 
+33	40	Dario Franchitti  	64 0 
+34	01	Regan Smith  	61 0 
+35	24	Jeff Gordon 	63 5 
+36	66	Scott Riggs 	60 5 
+37	00	David Reutimann 	52 0 
+38	2	Kurt Busch 	49 0 
+39	44	Dale Jarrett 	46 0 
+40	10	Patrick Carpentier  	43 0 
+41	77	Sam Hornish Jr.  	40 0 
+42	7	Robby Gordon 	37 0 
+43	20	Tony Stewart 	39 5 

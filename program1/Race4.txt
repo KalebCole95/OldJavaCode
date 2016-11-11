@@ -1,0 +1,44 @@
+Kobalt Tools 500
+1	18	Kyle Busch 	195 10 
+2	20	Tony Stewart 	170 0 
+3	88	Dale Earnhardt Jr. 	170 5 
+4	16	Greg Biffle 	165 5 
+5	24	Jeff Gordon 	160 5 
+6	07	Clint Bowyer 	155 5 
+7	29	Kevin Harvick 	146 0 
+8	17	Matt Kenseth 	142 0 
+9	83	Brian Vickers 	143 5 
+10	31	Jeff Burton 	134 0 
+11	2	Kurt Busch 	130 0 
+12	43	Bobby Labonte 	132 5 
+13	48	Jimmie Johnson 	124 0 
+14	12	Ryan Newman 	121 0 
+15	11	Denny Hamlin 	118 0 
+16	42	Juan Montoya 	115 0 
+17	5	Casey Mears 	112 0 
+18	66	Scott Riggs 	109 0 
+19	15	Paul Menard 	106 0 
+20	00	David Reutimann 	103 0 
+21	1	Martin Truex Jr. 	100 0 
+22	8	Mark Martin 	97 0 
+23	6	David Ragan 	94 0 
+24	7	Robby Gordon 	91 0 
+25	77	Sam Hornish Jr. 	88 0 
+26	44	Dale Jarrett 	85 0 
+27	84	Mike Skinner 	82 0 
+28	9	Kasey Kahne 	84 5 
+29	28	Travis Kvapil 	76 0 
+30	55	Michael Waltrip 	73 0 
+31	41	Reed Sorenson 	70 0 
+32	38	David Gilliland 	67 0 
+33	40	Dario Franchitti  	64 0 
+34	22	Dave Blaney 	61 0 
+35	10	Patrick Carpentier  	58 0 
+36	78	Joe Nemechek 	55 0 
+37	96	J.J. Yeley 	52 0 
+38	01	Regan Smith  	49 0 
+39	70	Jeremy Mayfield 	46 0 
+40	26	Jamie McMurray 	43 0 
+41	45	Kyle Petty 	40 0 
+42	99	Carl Edwards 	42 5 
+43	19	Elliott Sadler 	34 0 

@@ -1,0 +1,44 @@
+Auto Club 500
+1	99	Carl Edwards 	190 5 
+2	48	Jimmie Johnson 	180 10 
+3	24	Jeff Gordon 	170 5 
+4	18	Kyle Busch 	165 5 
+5	17	Matt Kenseth 	160 5 
+6	1	Martin Truex Jr. 	150 0 
+7	20	Tony Stewart 	146 0 
+8	29	Kevin Harvick 	147 5 
+9	9	Kasey Kahne 	143 5 
+10	12	Ryan Newman 	139 5 
+11	83	Brian Vickers 	130 0 
+12	31	Jeff Burton 	132 5 
+13	2	Kurt Busch 	124 0 
+14	6	David Ragan 	121 0 
+15	16	Greg Biffle 	123 5 
+16	8	Mark Martin 	115 0 
+17	38	David Gilliland 	112 0 
+18	7	Robby Gordon 	114 5 
+19	07	Clint Bowyer 	106 0 
+20	42	Juan Montoya 	103 0 
+21	66	Scott Riggs 	100 0 
+22	26	Jamie McMurray 	102 5 
+23	00	David Reutimann 	94 0 
+24	19	Elliott Sadler 	91 0 
+25	43	Bobby Labonte 	88 0 
+26	21	Bill Elliott 	85 0 
+27	15	Paul Menard 	82 0 
+28	55	Michael Waltrip 	79 0 
+29	96	J.J. Yeley 	76 0 
+30	22	Dave Blaney 	73 0 
+31	01	Regan Smith  	70 0 
+32	40	Dario Franchitti  	72 5 
+33	44	Dale Jarrett 	69 5 
+34	78	Joe Nemechek 	61 0 
+35	34	John Andretti 	63 5 
+36	28	Travis Kvapil 	55 0 
+37	41	Reed Sorenson 	52 0 
+38	45	Kyle Petty 	49 0 
+39	70	Jeremy Mayfield 	46 0 
+40	88	Dale Earnhardt Jr. 	43 0 
+41	11	Denny Hamlin 	40 0 
+42	5	Casey Mears 	37 0 
+43	77	Sam Hornish Jr.  	34 0 

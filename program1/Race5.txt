@@ -1,0 +1,44 @@
+Food City 500
+1	31	Jeff Burton 	190 5 
+2	29	Kevin Harvick 	175 5 
+3	07	Clint Bowyer 	170 5 
+4	16	Greg Biffle 	160 0 
+5	88	Dale Earnhardt Jr. 	155 0 
+6	11	Denny Hamlin 	155 5 
+7	9	Kasey Kahne 	146 0 
+8	8	Mark Martin 	142 0 
+9	38	David Gilliland 	138 0 
+10	17	Matt Kenseth 	134 0 
+11	24	Jeff Gordon 	130 0 
+12	2	Kurt Busch 	127 0 
+13	1	Martin Truex Jr. 	124 0 
+14	20	Tony Stewart 	131 10 
+15	42	Juan Montoya 	118 0 
+16	99	Carl Edwards 	115 0 
+17	18	Kyle Busch 	117 5 
+18	48	Jimmie Johnson 	114 5 
+19	19	Elliott Sadler 	106 0 
+20	00	David Reutimann 	103 0 
+21	6	David Ragan 	100 0 
+22	66	Scott Riggs 	97 0 
+23	55	Michael Waltrip 	99 5 
+24	7	Robby Gordon 	91 0 
+25	96	J.J. Yeley 	88 0 
+26	01	Regan Smith  	85 0 
+27	28	Travis Kvapil 	82 0 
+28	45	Kyle Petty 	79 0 
+29	77	Sam Hornish Jr.  	76 0 
+30	70	Jeremy Mayfield 	73 0 
+31	41	Reed Sorenson 	70 0 
+32	15	Paul Menard 	67 0 
+33	12	Ryan Newman 	64 0 
+34	22	Dave Blaney 	61 0 
+35	78	Joe Nemechek 	58 0 
+36	40	Dario Franchitti  	55 0 
+37	44	Dale Jarrett 	52 0 
+38	43	Bobby Labonte 	49 0 
+39	83	Brian Vickers 	46 0 
+40	84	Mike Skinner 	43 0 
+41	49	Ken Schrader 	40 0 
+42	5	Casey Mears 	37 0 
+43	26	Jamie McMurray 	34 0 
